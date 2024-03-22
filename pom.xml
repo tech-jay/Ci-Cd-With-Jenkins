@@ -18,6 +18,14 @@
      <maven.compiler.target>3.6.1</maven.compiler.target>
   </properties>
 
+  <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-war-plugin</artifactId>
+    <version>2.2</version>
+</dependency>
+
+
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
