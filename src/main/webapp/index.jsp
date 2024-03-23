@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Jay's Technologies</title>
+    <title>Jay's Technologie's</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="script" href="script.js">
     
