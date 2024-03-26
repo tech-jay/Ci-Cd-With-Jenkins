@@ -16,7 +16,6 @@
 <header>
     <!--Main Header-->
     <h1>Jay's Technologie's</h1>
-    <h1>JNP</h1>
     <p> The Great Way Of Clearing Subjects </p>
 </header>
 <marquee behavior="scrool" direction="left"> Welcome To Jays Technologies </marquee>
