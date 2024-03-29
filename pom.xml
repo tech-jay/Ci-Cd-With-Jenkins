@@ -15,6 +15,8 @@
  <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
+   <docker.image.prefix>Jay</docker.image.prefix>
+	<sonar.host.url>http://13.233.212.41:9000/</sonar.host.url>
 </properties>
 
 
